@@ -49,5 +49,5 @@ VOLUME ["/var/www/html"]
 ###CMD###
 CMD /datos1/entrypoint.sh
 
-###ENTRYPOINT###
+###ENTRYPOINT##
 #ENTRYPOINT ["/bin/bash"]
